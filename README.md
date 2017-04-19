@@ -1,9 +1,10 @@
-##Things To Install On Every Computer
+## Things To Install On Every Computer
 These are the applications, CLIs, and packages that I install on every computer. For work and for personal life, I use a Macbook Pro. That said, I'm waiting for the day when I can sensibly switch back to a less overpriced computer :)
 
 **General Applications**:
 - [f.lux](https://justgetflux.com/): Takes the blue light out of your display when it gets dark. Without this, eternal headaches.
 - [Slack Desktop](https://slack.com/is): My favorite platform of work communications.
+- [Polymail](https://polymail.io/): The best way to productively handle email. Also beautiful.
 - [Evernote](https://evernote.com/): My current goto for note-taking on mobile and desktop.
 - [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. 
 - [Postgres.app](http://postgresapp.com/): I think this is the easiest way to start a Postgres server.
