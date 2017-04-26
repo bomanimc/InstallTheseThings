@@ -7,13 +7,14 @@ These are the applications, CLIs, and packages that I install on every computer.
 - [Polymail](https://polymail.io/): The best way to productively handle email. Also beautiful.
 - [Evernote](https://evernote.com/): My current goto for note-taking on mobile and desktop.
 - [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. 
-- [Postgres.app](http://postgresapp.com/): I think this is the easiest way to start a Postgres server.
 - [Caffeine](https://caffeine.en.softonic.com/mac): Stop your computer from going to sleep while it's doing important stuff.
-- [Google Chrome](): My daily driver, but I also install the other major web browsers for testing.
+- [Alfred](https://www.alfredapp.com/): Essentially a better version of Spotlight on Mac.
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html): My daily driver, but I also install the other major web browsers for testing.
 
 **Applications For Writing Code**:
 - [Sublime Text 3](https://www.sublimetext.com/3): My favorite text editor to use for programming, but [Atom](https://atom.io/) is pretty cool too.
 - [iTerm](https://www.iterm2.com/): My favorite terminal because I like the typeface.
+- [Postgres.app](http://postgresapp.com/): I think this is the easiest way to start a Postgres server.
 
 **Command Line Interfaces**:
 - [Homebrew](http://brew.sh/)
