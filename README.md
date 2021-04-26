@@ -4,19 +4,18 @@ These are the applications, CLIs, and packages that I install on every computer.
 **General Applications**:
 - [f.lux](https://justgetflux.com/): Takes the blue light out of your display when it gets dark. Without this, eternal headaches.
 - [Slack Desktop](https://slack.com/is): My favorite platform of work communications.
-- [Polymail](https://polymail.io/): The best way to productively handle email. Also beautiful.
-- [Evernote](https://evernote.com/): My current goto for note-taking on mobile and desktop.
 - [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. 
 - [Caffeine](https://caffeine.en.softonic.com/mac): Stop your computer from going to sleep while it's doing important stuff.
 - [Alfred](https://www.alfredapp.com/): Essentially a better version of Spotlight on Mac.
-- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html): My daily driver, but I also install the other major web browsers for testing.
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html): My work browser, but I also install the other major web browsers for testing.
+- [Firefox](https://www.mozilla.org/en-US/firefox/): The browser I use in my personal life.
 
 **Applications For Writing Code**:
-- [Sublime Text 3](https://www.sublimetext.com/3): My favorite text editor to use for programming, but [Atom](https://atom.io/) is pretty cool too.
+- [VSCode](https://code.visualstudio.com/): My favorite text editor to use for programming, but [Atom](https://atom.io/) is pretty cool too.
 - [iTerm](https://www.iterm2.com/): My favorite terminal because I like the typeface.
 - [Postgres.app](http://postgresapp.com/): I think this is the easiest way to start a Postgres server.
 
-**Command Line Interfaces**:
+**Command Line Interfaces & Tools**:
 - [Homebrew](http://brew.sh/)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Node & npm](https://nodejs.org/en/)
@@ -25,7 +24,4 @@ These are the applications, CLIs, and packages that I install on every computer.
 - [MongoDB](https://docs.mongodb.com/)
 - [Postgres](https://www.postgresql.org/)
 - [jsonlint](https://github.com/zaach/jsonlint)
-
-**Sublime Packages**:
-- [JSON Reindent](https://github.com/ThomasKliszowski/json_reindent)
-- [Babel-Sublime](https://github.com/babel/babel-sublime)
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
