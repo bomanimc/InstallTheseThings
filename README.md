@@ -2,7 +2,6 @@
 These are the applications, CLIs, and packages that I install on every computer. For work and for personal life, I use a Macbook Pro. That said, I'm waiting for the day when I can sensibly switch back to a less overpriced computer :)
 
 **General Applications**:
-- [f.lux](https://justgetflux.com/): Takes the blue light out of your display when it gets dark. Without this, eternal headaches.
 - [Slack Desktop](https://slack.com/is): My favorite platform of work communications.
 - [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. 
 - [Caffeine](https://caffeine.en.softonic.com/mac): Stop your computer from going to sleep while it's doing important stuff.
@@ -26,3 +25,6 @@ These are the applications, CLIs, and packages that I install on every computer.
 - [jsonlint](https://github.com/zaach/jsonlint)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 - [oh-my-zsh](https://ohmyz.sh/) with the `muse` theme.
+
+**Defunct or No Longer Necessary**:
+- [f.lux](https://justgetflux.com/): Takes the blue light out of your display when it gets dark. Without this, eternal headaches.
