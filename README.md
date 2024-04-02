@@ -11,7 +11,7 @@ These are the applications, CLIs, and packages that I install on every computer.
 - [Firefox](https://www.mozilla.org/en-US/firefox/): The browser I use in my personal life.
 
 **Applications For Writing Code**:
-- [VSCode](https://code.visualstudio.com/): My favorite text editor to use for programming, but [Atom](https://atom.io/) is pretty cool too.
+- [VSCode](https://code.visualstudio.com/): My favorite text editor to use for programming.
 - [iTerm](https://www.iterm2.com/): My favorite terminal because I like the typeface.
 - [Postgres.app](http://postgresapp.com/): I think this is the easiest way to start a Postgres server.
 
@@ -25,3 +25,4 @@ These are the applications, CLIs, and packages that I install on every computer.
 - [Postgres](https://www.postgresql.org/)
 - [jsonlint](https://github.com/zaach/jsonlint)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- [oh-my-zsh](https://ohmyz.sh/) with the `muse` theme.
