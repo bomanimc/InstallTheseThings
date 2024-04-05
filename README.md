@@ -3,7 +3,7 @@ These are the applications, CLIs, and packages that I install on every computer.
 
 **General Applications**:
 - [Slack Desktop](https://slack.com/is): My favorite platform of work communications.
-- [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. 
+- [Rectangle](https://rectangleapp.com/): Quick way to resize and reposition windows with your keyboard. 
 - [Caffeine](https://caffeine.en.softonic.com/mac): Stop your computer from going to sleep while it's doing important stuff.
 - [Alfred](https://www.alfredapp.com/): Essentially a better version of Spotlight on Mac.
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html): My work browser, but I also install the other major web browsers for testing.
@@ -28,3 +28,4 @@ These are the applications, CLIs, and packages that I install on every computer.
 
 **Defunct or No Longer Necessary**:
 - [f.lux](https://justgetflux.com/): Takes the blue light out of your display when it gets dark. Without this, eternal headaches.
+- - [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. No longer supported (Rectangle is the community replacement).
