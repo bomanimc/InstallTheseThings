@@ -28,4 +28,4 @@ These are the applications, CLIs, and packages that I install on every computer.
 
 **Defunct or No Longer Necessary**:
 - [f.lux](https://justgetflux.com/): Takes the blue light out of your display when it gets dark. Without this, eternal headaches.
-- - [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. No longer supported (Rectangle is the community replacement).
+- [Spectacle](https://www.spectacleapp.com/): Quick way to resize and reposition windows with your keyboard. No longer supported (Rectangle is the community replacement).
